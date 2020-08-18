@@ -1,0 +1,3 @@
+# actual eeg data have to be stored in here
+# name of eeg data should be like this form
+# ex) dataset0_parsed.mat
