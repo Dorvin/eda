@@ -32,6 +32,12 @@
     - 결과로 얻은 csv 데이터를 처리하고 분석하는 핵심 코드이다.
 - save_figs.py
     - processing 모듈을 이용해 모든 데이터에 대해 분석 결과를 저장하는 코드이다.
+- ae_pretrain.py
+    - AE 학습시키며 원하는 위치에서 model weight 추출
+- transfer.py
+    - Single Network 에서의 Tranfer Learning
+    - 이 코드는 위의 나머지 Utility Script 들과 호환성 없음
+    - 용도에 맞게 위 코드들을 수정해서 사용하길 권함
 
 ## Work Flow
 
